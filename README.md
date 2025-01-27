@@ -1,4 +1,4 @@
-![Tailor icon](tailorx128.png)
+ ![Tailor icon](tailorx128.png)
 
 # Tailor
 
